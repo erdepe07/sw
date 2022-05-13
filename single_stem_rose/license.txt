@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single Stem Rose
+* source:	https://sketchfab.com/3d-models/single-stem-rose-7aff3f1a1736416e8072ca82f4ffd01b
+* author:	intrepidolivia (https://sketchfab.com/intrepidolivia)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single Stem Rose" (https://sketchfab.com/3d-models/single-stem-rose-7aff3f1a1736416e8072ca82f4ffd01b) by intrepidolivia (https://sketchfab.com/intrepidolivia) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
